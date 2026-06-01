@@ -4,7 +4,7 @@
 
 | 項目 | 最低 | 推奨 |
 |---|---|---|
-| OS | Windows 10（64bit） | Windows 11（64bit） |
+| OS | Windows 11（64bit） | Windows 11（64bit） |
 | メモリ | 8GB | 16GB 以上 |
 | ストレージ | 空き 900MB（アプリ本体） | SSD 推奨（録画ファイルの保存先含む） |
 | GPU | 不要 | NVIDIA GPU（録画エンコードの高速化に有効・動作確認済み）/ AMD GPU（動作確認中） |
